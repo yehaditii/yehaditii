@@ -19,4 +19,3 @@ jobs:
         with:
           name: snake-animation
           path: dist/github-contribution-grid-snake.svg
-
