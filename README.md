@@ -2,8 +2,7 @@
 
 <h3 align="center">💻 Data Science & Cybersecurity Enthusiast </h3>
 
-<!-- 🐶 GIF FIXED (Now Uses a Direct Link) -->
-<img align="right" height="150" src="https://media.giphy.com/media/3o7TKM36q6bEDJ8yCk/giphy.gif" />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamE0eXM4MmNnZ2Vld2I4enJ4bXE5YzFheWdidjhzZWgydXYwYnR1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4PZC0622p78vD0OZSs/giphy.gif" />
 
 ---
 
@@ -27,18 +26,8 @@
 
 ---
 
-### 🏆 GitHub Contributions  
-<div align="center">
-  <img src="https://github.com/yehaditii/yehaditii/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
 ### 📫 Connect With Me  
 <div align="center">
-  <a href="https://www.linkedin.com/in/aditi-jha-932016185/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" height="30" />
-  </a>
   <a href="mailto:aditijha7207@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" height="30" />
   </a>
@@ -46,8 +35,3 @@
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&style=for-the-badge" height="30" />
   </a>
 </div>
-
----
-
-### 🐍 GitHub Contribution Snake Animation  
-![Snake animation](https://github.com/yehaditii/yehaditii/blob/output/github-contribution-grid-snake.svg)
