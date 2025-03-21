@@ -1,6 +1,6 @@
-<h1 align="center">Hi freaks, myself Aditi! 👋</h1>
+<h1 align="center">Hi freaks, myself Aditi! </h1>
 
-<h3 align="center">💻 Data Science & Cybersecurity Enthusiast | 🏀 Aspiring Basketball Player</h3>
+<h3 align="center">💻 Data Science & Cybersecurity Enthusiast </h3>
 
 <!-- 🐶 GIF FIXED (Now Uses a Direct Link) -->
 <img align="right" height="150" src="https://media.giphy.com/media/3o7TKM36q6bEDJ8yCk/giphy.gif" />
