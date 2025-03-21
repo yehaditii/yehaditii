@@ -2,7 +2,8 @@
 
 <h3 align="center">💻 Data Science & Cybersecurity Enthusiast | 🏀 Aspiring Basketball Player </h3>
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh0azJuNmVpMngxN3oxa3ZjMnQzdGF3ZzRkN2U2bmd6azlvbHZicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKM36q6bEDJ8yCk/giphy.gif" />
+<!-- Adding the GIF properly -->
+<img align="right" height="150" src="https://media.giphy.com/media/3o7TKM36q6bEDJ8yCk/giphy.gif" />
 
 ---
 
@@ -41,12 +42,13 @@
   <a href="mailto:aditijha7207@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" height="30" />
   </a>
-  <a href="https://discord.com/users/yehaditii." target="_blank">
+  <a href="https://discord.com/users/yehaditii" target="_blank">
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&style=for-the-badge" height="30" />
   </a>
 </div>
 
 ---
- 
+
+### 🐍 GitHub Contribution Snake Animation  
 ![Snake animation](https://github.com/yehaditii/yehaditii/blob/output/github-contribution-grid-snake.svg)
 
